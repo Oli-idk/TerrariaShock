@@ -1,0 +1,1 @@
+Mod to shock you for a set duration/intensity every time you take damage!

@@ -1,0 +1,3 @@
+displayName = PiShock
+author = AkiraDev
+version = 0.1

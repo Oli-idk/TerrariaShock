@@ -1,0 +1,45 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		Headers: {
+			Shocker: Shocker Config
+			Punishment: Punishment Details
+		}
+
+		username: {
+			Label: username
+			Tooltip: Username you use to log into PiShock.com. Can be found in the Account section of the website.
+		}
+
+		apiKey: {
+			Label: api Key
+			Tooltip: API Key generated on PiShock.com Can be found in the Account section of the website.
+		}
+
+		code: {
+			Label: code
+			Tooltip: Sharecode generated on PiShock.com. Limitations can be set when generating the code.
+		}
+
+		senderName: {
+			Label: sender Name
+			Tooltip: Name of what sent the commands. This will showup in the PiShock logs on the website.
+		}
+
+		apiEndpoint: {
+			Label: api Endpoint
+			Tooltip: Pishocks api endpoint (should leave default)
+		}
+
+		Intensity: {
+			Label: Intensity
+			Tooltip: Shock intensity when taking damage
+		}
+
+		Duration: {
+			Label: Duration
+			Tooltip: Shock duration
+		}
+	}
+}
